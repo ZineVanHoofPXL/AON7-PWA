@@ -1,0 +1,27 @@
+{
+    "name": "AON7 - PWA",
+    "short_name": "AON7 - PWA",
+    "description": "Example PWA project made with Vue",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/assets/pxl.png",
+        "sizes": "320x320"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/assets/pxl.png",
+        "sizes": "320x320",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/assets/pxl.png",
+        "sizes": "320x320"
+      }
+    ]
+  }
+  
